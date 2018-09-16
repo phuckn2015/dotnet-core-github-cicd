@@ -1,0 +1,14 @@
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\GitHubCICD.Test.deps.json
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\GitHubCICD.Test.runtimeconfig.json
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\GitHubCICD.Test.runtimeconfig.dev.json
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\GitHubCICD.Test.dll
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\bin\Debug\netcoreapp2.1\GitHubCICD.Test.pdb
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.csprojAssemblyReference.cache
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.csproj.CoreCompileInputs.cache
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.AssemblyInfoInputs.cache
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.AssemblyInfo.cs
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.dll
+c:\users\webma\source\repos\GitHubCiCdSolution\GitHubCICD.Test\obj\Debug\netcoreapp2.1\GitHubCICD.Test.pdb
